@@ -69,15 +69,6 @@ Here are the projects included in the track, along with my progress and reflecti
 
 ---
 
-## Resources  
-- [DataCamp's Python Track Page](https://www.datacamp.com/tracks/associate-data-scientist-with-python)  
-- [Python Documentation](https://docs.python.org/3/)  
-- [pandas Documentation](https://pandas.pydata.org/docs/)  
-- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)  
-- [scikit-learn Documentation](https://scikit-learn.org/stable/)  
-
----
-
 ## Reflections and Insights  
 As I progress through the track, I will document my reflections and insights here. This section will include challenges faced, lessons learned, and how I plan to apply these skills in real-world scenarios.  
 
