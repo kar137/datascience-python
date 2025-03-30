@@ -9,10 +9,9 @@ This repository serves as a personal documentation of my journey through DataCam
 1. [About the Track](#about-the-track)  
 2. [Courses and Progress](#courses-and-progress)  
 3. [Key Takeaways](#key-takeaways)  
-4. [Projects](#projects)  
-5. [Resources](#resources)  
-6. [Reflections and Insights](#reflections-and-insights)  
-7. [How to Use This Repository](#how-to-use-this-repository)  
+4. [Projects](#projects)    
+5. [Reflections and Insights](#reflections-and-insights)  
+6. [How to Use This Repository](#how-to-use-this-repository)  
 
 ---
 
