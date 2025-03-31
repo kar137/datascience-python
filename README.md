@@ -18,11 +18,6 @@ This repository serves as a personal documentation of my journey through DataCam
 ## About the Track  
 The **Associate Data Scientist (Python Track)** by DataCamp is designed to equip learners with the foundational skills required to become a data scientist. The track covers essential topics such as data manipulation, visualization, statistical analysis, machine learning, and more, all using Python.  
 
-This track is ideal for:  
-- Aspiring data scientists  
-- Professionals looking to transition into data science  
-- Anyone interested in leveraging Python for data analysis and machine learning  
-
 ---
 
 ## Courses and Progress  
