@@ -9,9 +9,8 @@ This repository serves as a personal documentation of my journey through DataCam
 1. [About the Track](#about-the-track)  
 2. [Courses and Progress](#courses-and-progress)  
 3. [Key Takeaways](#key-takeaways)  
-4. [Projects](#projects)    
-5. [Reflections and Insights](#reflections-and-insights)  
-6. [How to Use This Repository](#how-to-use-this-repository)  
+4. [Projects](#projects)      
+5. [How to Use This Repository](#how-to-use-this-repository)  
 
 ---
 
@@ -60,11 +59,6 @@ Here are the projects included in the track, along with my progress and reflecti
 | Exploring NYC Public School Test Result Scores | Not Started | Will analyze and visualize educational data.                              |
 | Exploring 67 Years of LEGO          | Not Started | Dive into the history of LEGO sets and themes.                           |
 | The GitHub History of the Scala Language | Not Started | Analyze the development of Scala through GitHub data.                    |
-
----
-
-## Reflections and Insights  
-As I progress through the track, I will document my reflections and insights here. This section will include challenges faced, lessons learned, and how I plan to apply these skills in real-world scenarios.  
 
 ---
 
