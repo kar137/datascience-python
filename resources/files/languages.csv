@@ -1,0 +1,8 @@
+,language,is_interpreted,popularity_rank
+PY,Python,True,1
+JA,Java,False,2
+C++,C++,False,4
+JS,JavaScript,True,3
+RB,Ruby,True,10
+GO,Go,False,7
+SW,Swift,False,6
