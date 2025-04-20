@@ -1,0 +1,51 @@
+student_id,first_name,last_name,age,gender,major,gpa,credits_completed
+1,John,Doe,20,Male,Computer Science,3.5,60
+2,Emma,Smith,22,Female,Business,3.8,90
+3,Noah,Johnson,19,Male,Engineering,3.2,45
+4,Ava,Williams,21,Female,Mathematics,3.7,80
+5,Liam,Brown,20,Male,Physics,3.1,55
+6,Olivia,Jones,23,Female,Psychology,3.9,100
+7,Mason,Garcia,18,Male,Biology,2.9,30
+8,Sophia,Miller,22,Female,History,3.4,85
+9,James,Davis,21,Male,Economics,3.3,75
+10,Isabella,Martinez,20,Female,Political Science,3.6,65
+11,Ethan,Lopez,22,Male,Chemistry,3.0,70
+12,Mia,Gonzalez,19,Female,Literature,3.5,50
+13,Lucas,Wilson,20,Male,Mechanical Engineering,2.8,55
+14,Charlotte,Anderson,21,Female,Education,3.7,80
+15,Logan,Thomas,23,Male,Computer Science,3.6,95
+16,Amelia,Taylor,18,Female,Business,3.2,40
+17,Alexander,Moore,20,Male,Engineering,3.1,60
+18,Evelyn,Jackson,21,Female,Mathematics,3.8,85
+19,Elijah,Martin,19,Male,Physics,2.7,35
+20,Harper,Lee,22,Female,Psychology,3.9,95
+21,Benjamin,Perez,21,Male,Biology,3.4,70
+22,Abigail,White,20,Female,History,3.3,65
+23,Henry,Harris,22,Male,Economics,3.5,90
+24,Emily,Sanchez,19,Female,Political Science,3.6,50
+25,Daniel,Clark,20,Male,Chemistry,2.9,55
+26,Elizabeth,Ramirez,21,Female,Literature,3.7,80
+27,Matthew,Lewis,23,Male,Mechanical Engineering,3.2,100
+28,Sofia,Robinson,18,Female,Education,3.5,30
+29,Jackson,Walker,22,Male,Computer Science,3.1,85
+30,Avery,Young,20,Female,Business,3.8,70
+31,Samuel,Allen,21,Male,Engineering,3.4,80
+32,Ella,King,20,Female,Mathematics,3.5,60
+33,David,Wright,22,Male,Physics,3.0,85
+34,Scarlett,Scott,19,Female,Psychology,3.9,45
+35,Joseph,Green,21,Male,Biology,2.7,75
+36,Victoria,Baker,23,Female,History,3.6,100
+37,Carter,Adams,20,Male,Economics,3.2,65
+38,Grace,Nelson,22,Female,Political Science,3.7,90
+39,Owen,Hill,19,Male,Chemistry,2.8,40
+40,Chloe,Ramsey,20,Female,Literature,3.4,55
+41,Wyatt,Campbell,21,Male,Mechanical Engineering,3.5,70
+42,Penelope,Mitchell,22,Female,Education,3.6,85
+43,Jack,Carter,19,Male,Computer Science,3.1,45
+44,Riley,Roberts,20,Female,Business,3.7,60
+45,Julian,Gomez,22,Male,Engineering,2.9,90
+46,Lily,Phillips,23,Female,Mathematics,3.8,100
+47,Levi,Evans,21,Male,Physics,3.0,75
+48,Hannah,Turner,20,Female,Psychology,3.6,65
+49,Isaac,Diaz,19,Male,Biology,3.3,50
+50,Zoey,Parker,22,Female,History,3.5,85
