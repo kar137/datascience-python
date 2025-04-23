@@ -1,0 +1,51 @@
+book_id,title,author,genre,pages,published_year,rating
+1,The Alchemist,Paulo Coelho,Fantasy,263,2007,3.6
+2,Atomic Habits,James Clear,Romance,336,2014,4.6
+3,Sapiens,Yuval Noah Harari,History,337,1989,4.0
+4,Deep Work,Cal Newport,History,323,2009,3.8
+5,Harry Potter and the PS,J.K. Rowling,Romance,361,1957,3.9
+6,The Subtle Art,Mark Manson,Self-Help,467,1969,3.9
+7,Think and Grow Rich,Napoleon Hill,Romance,350,1954,3.9
+8,Educated,Tara Westover,Fiction,296,1954,5.0
+9,Becoming,Michelle Obama,Fantasy,490,1978,4.5
+10,The Power of Habit,Charles Duhigg,Fiction,404,1980,4.2
+11,The Hobbit,J.R.R. Tolkien,Fantasy,182,1971,4.7
+12,1984,George Orwell,Fantasy,220,1988,4.5
+13,To Kill a Mockingbird,Harper Lee,Romance,188,1950,3.5
+14,The Great Gatsby,F. Scott Fitzgerald,Fiction,318,1992,3.5
+15,The Catcher in the Rye,J.D. Salinger,History,325,1936,3.6
+16,The Road,Cormac McCarthy,Romance,266,1992,3.8
+17,Pride and Prejudice,Jane Austen,Productivity,252,1954,3.8
+18,The Book Thief,Markus Zusak,Fiction,284,1937,4.4
+19,The Silent Patient,Alex Michaelides,History,404,1955,4.9
+20,Where the Crawdads Sing,Delia Owens,Fiction,346,1972,4.8
+21,Brave New World,Aldous Huxley,Fiction,287,1937,4.1
+22,Dune,Frank Herbert,History,499,1963,4.8
+23,The Midnight Library,Matt Haig,History,242,2005,4.5
+24,The Four Agreements,Don Miguel Ruiz,Productivity,234,2000,3.7
+25,The Giver,Lois Lowry,Productivity,275,2022,4.0
+26,The Outsiders,S.E. Hinton,Fiction,374,1975,4.0
+27,A Man Called Ove,Fredrik Backman,Productivity,497,1931,3.7
+28,Eleanor Oliphant,Gail Honeyman,Fantasy,407,1950,4.3
+29,The Night Circus,Erin Morgenstern,Fantasy,400,1953,4.1
+30,Circe,Madeline Miller,Romance,444,1952,4.7
+31,Educated,Tara Westover,Fantasy,470,2002,4.5
+32,Untamed,Glennon Doyle,Fantasy,264,1961,3.5
+33,It Ends With Us,Colleen Hoover,Fantasy,297,1937,3.6
+34,Verity,Colleen Hoover,Fantasy,280,1936,4.6
+35,Malibu Rising,Taylor Jenkins Reid,Romance,355,2012,4.6
+36,Big Little Lies,Liane Moriarty,Productivity,188,1943,3.9
+37,The Paper Palace,Miranda Cowley Heller,History,254,2020,4.0
+38,Daisy Jones & The Six,Taylor Jenkins Reid,History,481,1970,4.2
+39,The Paris Library,Janet Skeslien Charles,Fiction,331,1995,4.3
+40,Project Hail Mary,Andy Weir,Productivity,286,1936,4.2
+41,Lessons in Chemistry,Bonnie Garmus,Productivity,221,1970,4.7
+42,"Tomorrow, and Tomorrow, and Tomorrow",Gabrielle Zevin,Fantasy,359,1936,3.9
+43,The Love Hypothesis,Ali Hazelwood,Fantasy,472,1975,4.8
+44,Reminders of Him,Colleen Hoover,Romance,278,1971,3.8
+45,Book Lovers,Emily Henry,Self-Help,249,1978,4.1
+46,Ugly Love,Colleen Hoover,Fiction,208,1937,5.0
+47,November 9,Colleen Hoover,History,346,1981,3.8
+48,Confess,Colleen Hoover,Productivity,416,1968,3.9
+49,All Your Perfects,Colleen Hoover,Self-Help,366,1935,4.7
+50,Regretting You,Colleen Hoover,Productivity,440,2007,4.4
