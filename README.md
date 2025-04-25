@@ -26,8 +26,8 @@ Below is a list of courses in the track, along with my progress and notes for ea
 |-------------------------------------|------------|---------------------------------------------------------------------------|
 | Introduction to Python              | Completed  | Learned basics of Python syntax, Python Lists, Functions and Packages and Numpy.|
 | Intermediate Python                 | Completed  | Matplotlib, Dictionaries & Pandas, Logic, Control flow & filtering, Loops and Case study: Hacker Stastistics.|
-| Data manipulation with Pandas       | In Progress| Transforming DataFrames, Aggregating DataFrames, Slicing & Indexing DataFrames, and Creating & visualizing DataFrames|
-| Python Data Science Toolbox (Part 2)| Not Started| Focuses on iterators, generators, and list comprehensions.               |
+| Data manipulation with Pandas       | Completed| Transforming DataFrames, Aggregating DataFrames, Slicing & Indexing DataFrames, and Creating & visualizing DataFrames|
+| Joining Data with Pandas            | In Progress| Data Merging Basics, Merging Tables With Different Join Types, Advanced Merging & Concatenating, and Merging Ordered & Time-Series Data              |
 | Importing Data in Python (Part 1)   | Not Started| Learn to import and clean data from various sources.                     |
 | Importing Data in Python (Part 2)   | Not Started| Dive deeper into data importing and cleaning techniques.                 |
 | Cleaning Data in Python             | Not Started| Focus on handling missing data and data quality issues.                  |
@@ -56,8 +56,8 @@ Here are the projects included in the track, along with my progress and reflecti
 
 | **Project**                         | **Status** | **Reflections**                                                          |
 |-------------------------------------|------------|---------------------------------------------------------------------------|
-| Investigating Netflix Movies | In Progress | Will use foundational python skills[Introduction & Intermediate] to manipulate and visualize movie data.                              |
-| Exploring NYC Public School Test Result Scores | Not Started | Will analyze and visualize educational data.                              |
+| Investigating Netflix Movies | Completed | Will use foundational python skills[Introduction & Intermediate] to manipulate and visualize movie data.                              |
+| Exploring NYC Public School Test Result Scores | Completed | Use data manipulation and summary statistics to analyze test scores across New York City's public schools!          |
 | Exploring 67 Years of LEGO          | Not Started | Dive into the history of LEGO sets and themes.                           |
 | The GitHub History of the Scala Language | Not Started | Analyze the development of Scala through GitHub data.                    |
 
