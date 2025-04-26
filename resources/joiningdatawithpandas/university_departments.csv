@@ -1,0 +1,51 @@
+department_id,department_name,head_of_department,building,phone_number
+1,Computer Science,Dr. Alan Turing,Engineering Block,555-1001
+2,Mechanical Engineering,Dr. Nikola Tesla,Tech Park,555-1002
+3,Civil Engineering,Dr. Isambard Brunel,Main Campus,555-1003
+4,Electrical Engineering,Dr. Thomas Edison,Innovation Tower,555-1004
+5,Business Administration,Dr. Peter Drucker,Business Center,555-1005
+6,Economics,Dr. Adam Smith,Social Sciences Building,555-1006
+7,Biology,Dr. Charles Darwin,Life Sciences Hall,555-1007
+8,Physics,Dr. Albert Einstein,Research Complex,555-1008
+9,Chemistry,Dr. Marie Curie,Science Hub,555-1009
+10,Mathematics,Dr. Carl Gauss,Academic Plaza,555-1010
+11,Architecture,Dr. Frank Lloyd Wright,Design Studio,555-1011
+12,Environmental Science,Dr. Rachel Carson,Green Campus,555-1012
+13,Political Science,Dr. John Locke,Social Studies Hall,555-1013
+14,History,Dr. Doris Kearns Goodwin,History Center,555-1014
+15,Psychology,Dr. Sigmund Freud,Behavioral Building,555-1015
+16,Sociology,Dr. Emile Durkheim,Society Center,555-1016
+17,Philosophy,Dr. Socrates,Humanities Hall,555-1017
+18,Music,Dr. Ludwig van Beethoven,Arts Center,555-1018
+19,Fine Arts,Dr. Leonardo da Vinci,Arts Studio,555-1019
+20,Drama,Dr. William Shakespeare,Theater Complex,555-1020
+21,Journalism,Dr. Ida B. Wells,Media House,555-1021
+22,Education,Dr. Maria Montessori,Teaching Building,555-1022
+23,Nursing,Dr. Florence Nightingale,Medical Sciences Block,555-1023
+24,Medicine,Dr. Hippocrates,Health Complex,555-1024
+25,Dentistry,Dr. Pierre Fauchard,Dental School,555-1025
+26,Pharmacy,Dr. William Procter Jr.,Pharma Center,555-1026
+27,Veterinary Science,Dr. James Herriot,Animal Care Wing,555-1027
+28,Agriculture,Dr. Norman Borlaug,Farm Campus,555-1028
+29,Astronomy,Dr. Carl Sagan,Observatory,555-1029
+30,Geology,Dr. Mary Anning,Earth Sciences Center,555-1030
+31,Anthropology,Dr. Margaret Mead,Cultural Sciences Hall,555-1031
+32,Linguistics,Dr. Noam Chomsky,Language Hub,555-1032
+33,Law,Dr. Ruth Bader Ginsburg,Law School,555-1033
+34,Criminology,Dr. Cesare Lombroso,Crime Studies Block,555-1034
+35,Statistics,Dr. Florence Nightingale David,Data Center,555-1035
+36,Library Science,Dr. Melvil Dewey,Knowledge Center,555-1036
+37,Hospitality Management,Dr. Conrad Hilton,Hospitality School,555-1037
+38,Tourism Studies,Dr. Thomas Cook,Travel Center,555-1038
+39,Graphic Design,Dr. Paul Rand,Design Block,555-1039
+40,Fashion Design,Dr. Coco Chanel,Fashion Center,555-1040
+41,Urban Planning,Dr. Jane Jacobs,City Planning Studio,555-1041
+42,International Relations,Dr. Henry Kissinger,Global Affairs Hall,555-1042
+43,Public Health,Dr. Anthony Fauci,Public Health Center,555-1043
+44,Information Technology,Dr. Ada Lovelace,IT Tower,555-1044
+45,Software Engineering,Dr. Margaret Hamilton,Software Block,555-1045
+46,Data Science,Dr. Andrew Ng,Analytics Hub,555-1046
+47,Cybersecurity,Dr. Whitfield Diffie,Security Center,555-1047
+48,Game Development,Dr. Shigeru Miyamoto,Game Studio,555-1048
+49,Artificial Intelligence,Dr. Geoffrey Hinton,AI Research Lab,555-1049
+50,Robotics,Dr. Rodney Brooks,Robotics Center,555-1050

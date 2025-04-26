@@ -1,0 +1,10 @@
+year,month,day,day_type,open_status
+2025,7,1,Weekday,Open
+2025,7,2,Weekday,Open
+2025,7,3,Weekday,Open
+2025,7,4,Holiday,Closed
+2025,7,5,Weekend,Open
+2025,7,6,Weekend,Closed
+2025,7,7,Weekday,Open
+2025,8,1,Weekday,Open
+2025,8,2,Weekday,Open
